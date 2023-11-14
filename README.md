@@ -25,6 +25,37 @@ Explore real-time and historical metal rates with exceptional accuracy.
 
 Explore a wide range of supported symbols, including gold, silver, platinum, palladium, and various others. From LBMA Gold to LME Steel, we cover it all. [View Symbols](https://www.metals-api.com/symbols)
 
+## Available Endpoints
+
+The Metals-API API comes with multiple endpoints, each providing different functionality. Please note that depending on your subscription plan, certain API endpoints may or may not be available.
+
+1. **Latest Rates Endpoint**
+   - Returns real-time exchange rate data for all available or a specific set of currencies. (The number of symbols per API request depends on the acquired plan).
+
+2. **Convert Endpoint**
+   - Allows for conversion of any amount from one currency to another.
+
+3. **Historical Rates Endpoint**
+   - Returns historical exchange rate data for a specific set of currencies. (The number of symbols per API request depends on the acquired plan).
+
+4. **Bid And Ask Endpoint**
+   - Returns real-time Bid and Ask prices for Gold, Silver, Palladium, and Platinum. (The number of symbols per API request depends on the acquired plan).
+
+5. **Time-Series Data Endpoint**
+   - Returns daily historical exchange rate data between two specified dates for all available or a specific set of currencies. (The date limits per API request depend on the acquired plan).
+
+6. **Fluctuation Data Endpoint**
+   - Returns fluctuation data between two specified dates for all available or a specific set of currencies. (The date limits per API request depend on the acquired plan).
+
+7. **Carat Data Endpoint**
+   - Returns gold by carat data for a specific base currency.
+
+8. **Lowest/Highest Price Endpoint**
+   - Returns the lowest and highest price.
+
+9. **Open/High/Low/Close Price Endpoint**
+   - Returns the open, high, low, and close price.
+
 ## ⭐ Documentation
 
 For detailed information on API endpoints, usage, and integration guidelines, check our [API Documentation](https://www.metals-api.com/documentation).
