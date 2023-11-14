@@ -1,4 +1,4 @@
-# [![Metals-API](https://www.metals-api.com/assets/images/brand/icon-with-text.png)](https://metalsapi.com)
+# [![Metals-API](https://www.metals-api.com/assets/images/brand/icon-with-text.png)](https://metals-api.com)
 
 <!--start: description-->
 
@@ -29,4 +29,4 @@ Explore a wide range of supported symbols, including gold, silver, platinum, pal
 
 For detailed information on API endpoints, usage, and integration guidelines, check our [API Documentation](https://www.metals-api.com/documentation).
 
-Start using Metals-API today for unparalleled access to precious metals data. Visit [Metals-API.com](https://metalsapi.com) and integrate in just minutes! 🌐🆓
+Start using Metals-API today for unparalleled access to precious metals data. Visit [Metals-API.com](https://metals-api.com) and integrate in just minutes! 🌐🆓
