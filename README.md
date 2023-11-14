@@ -19,7 +19,7 @@ Explore real-time and historical metal rates with exceptional accuracy.
 - **Historical Data Access:** Dive into historical data for comprehensive analysis and informed decision-making.
 - **Exceptional Accuracy:** Rely on Metals-API for spot-on accuracy in real-time and historical data.
 - **User-Friendly Documentation:** Navigate through our comprehensive documentation for a smooth integration process.
-- **Specialized Support:** Count on our dedicated support team for assistance tailored to your specific needs.
+- **Specialized Support:** Count on our dedicated support team for assistance tailored to your specific needs. 🤝
 
 ## ⭐ Supported Symbols
 
@@ -29,4 +29,4 @@ Explore a wide range of supported symbols, including gold, silver, platinum, pal
 
 For detailed information on API endpoints, usage, and integration guidelines, check our [API Documentation](https://www.metals-api.com/documentation).
 
-Start using Metals-API today for unparalleled access to precious metals data. Visit [Metals-API.com](https://metals-api.com) and integrate in just minutes! 🌐🆓
+Start using Metals-API today for unparalleled access to precious metals data. Visit [Metals-API.com](https://metals-api.com) and integrate in just minutes! 🌐🆓✨
